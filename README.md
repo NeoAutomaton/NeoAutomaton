@@ -6,6 +6,7 @@ I have attached documents I have authored in this repository incase anyone finds
 
 Useful links-
   Learning Resources
+  
        Organizations
           https://www.linuxfoundation.org/;
           https://www.python.org/;
@@ -17,19 +18,15 @@ Useful links-
       Schools
           https://ocw.mit.edu/resources/
           https://online.stanford.edu/free-courses
-          
-  Ledger projects-
-      https://www.hyperledger.org/
-      https://landscape.hyperledger.org/
-      https://ethereum.org/en/
-
-  Operating Systems-
-     https://ubuntu.com/
-     https://www.debian.org/
-     https://www.qubes-os.org/downloads/ (great for network admin testing)
-    
-  Security
-      https://www.inteltechniques.com/index.html
-    
-  Software
-      http://systemadminhub.com/
+      Ledger projects-
+          https://www.hyperledger.org/
+          https://landscape.hyperledger.org/
+          https://ethereum.org/en/
+      Operating Systems-
+          https://ubuntu.com/
+          https://www.debian.org/
+          https://www.qubes-os.org/downloads/ (great for network admin testing)
+      Security
+          https://www.inteltechniques.com/index.html
+      Software
+        http://systemadminhub.com/
