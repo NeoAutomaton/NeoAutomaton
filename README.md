@@ -6,18 +6,14 @@ I have attached documents I have authored in this repository incase anyone finds
 
 Useful links-
   Learning Resources
-  
-      Organizations
+       Organizations
           https://www.linuxfoundation.org/
           https://www.python.org/
-          
-      Training
+       Training
           https://www.coursera.org/
-          https://www.w3schools.com/
-          
+          https://www.w3schools.com    
       Research
            https://scholar.google.com/
-           
       Schools
           https://ocw.mit.edu/resources/
           https://online.stanford.edu/free-courses
