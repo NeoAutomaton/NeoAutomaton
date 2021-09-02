@@ -20,6 +20,8 @@ Useful links-
           https://online.stanford.edu/free-courses
       Ledger projects-
           https://www.hyperledger.org/
+          https://www.hyperledger.org/use/iroha (Easy to implement financial Hyperledger project)
+          https://www.hyperledger.org/use/sawtooth (Python based Hyperledger Project)
           https://landscape.hyperledger.org/
           https://ethereum.org/en/
       Operating Systems-
